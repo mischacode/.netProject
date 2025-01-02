@@ -18,55 +18,62 @@ namespace NetProject.Controllers
 
         // GET: api/Location
         [HttpGet]
-        public IEnumerable<Location> Get()
+        public ActionResult<IEnumerable<Location>> Get()
         {
-            return locations;
+            return Ok(locations); // מחזיר את כל המיקומים עם קוד סטטוס 200 (OK)
         }
 
         // GET api/Location/5
         [HttpGet("{id}")]
-        public Location Get(int id)
+        public ActionResult<Location> Get(int id)
         {
-            return locations.FirstOrDefault(l => l.Id == id);
+            var location = locations.FirstOrDefault(l => l.Id == id);
+            if (location == null)
+            {
+                return NotFound(); // אם המיקום לא נמצא, מחזיר קוד 404
+            }
+            return Ok(location); // מחזיר את המיקום עם קוד סטטוס 200 (OK)
         }
 
         // POST api/Location
         [HttpPost]
-        public void Post([FromBody] Location newLocation)
+        public ActionResult<Location> Post([FromBody] Location newLocation)
         {
             newLocation.Id = locations.Any() ? locations.Max(l => l.Id) + 1 : 1;
             locations.Add(newLocation);
+            return CreatedAtAction(nameof(Get), new { id = newLocation.Id }, newLocation); // מחזיר קוד 201 עם המיקום שנוצר
         }
 
         // PUT api/Location/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] Location updatedLocation)
+        public IActionResult Put(int id, [FromBody] Location updatedLocation)
         {
-            foreach (var existingLocation in locations)
+            var existingLocation = locations.FirstOrDefault(l => l.Id == id);
+            if (existingLocation == null)
             {
-                if (existingLocation.Id == id)
-                {
-                    // עדכון הערכים של המיקום
-                    existingLocation.Name = updatedLocation.Name;
-                    existingLocation.Address = updatedLocation.Address;
-                    existingLocation.Status = updatedLocation.Status;
-                }
+                return NotFound(); // אם המיקום לא נמצא, מחזיר קוד 404
             }
+
+            // עדכון המיקום
+            existingLocation.Name = updatedLocation.Name;
+            existingLocation.Address = updatedLocation.Address;
+            existingLocation.Status = updatedLocation.Status;
+
+            return NoContent(); // מחזיר קוד 204 (אין תוכן) לאחר עדכון מוצלח
         }
 
         // DELETE api/Location/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public IActionResult Delete(int id)
         {
-            for (int i = 0; i < locations.Count; i++)
+            var location = locations.FirstOrDefault(l => l.Id == id);
+            if (location == null)
             {
-                if (locations[i].Id == id)
-                {
-                    // מחיקת המיקום מהרשימה
-                    locations.RemoveAt(i);
-                    break;
-                }
+                return NotFound(); // אם המיקום לא נמצא, מחזיר קוד 404
             }
+
+            locations.Remove(location);
+            return NoContent(); // מחזיר קוד 204 (אין תוכן) לאחר מחיקה מוצלחת
         }
     }
 }

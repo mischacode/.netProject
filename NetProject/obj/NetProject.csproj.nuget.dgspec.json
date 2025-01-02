@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\NetProject\\NetProject\\NetProject.csproj": {}
+    "C:\\Users\\user\\Documents\\תכנות שנה ב\\net\\NetProject\\NetProject\\NetProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\NetProject\\NetProject\\NetProject.csproj": {
+    "C:\\Users\\user\\Documents\\תכנות שנה ב\\net\\NetProject\\NetProject\\NetProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\NetProject\\NetProject\\NetProject.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\תכנות שנה ב\\net\\NetProject\\NetProject\\NetProject.csproj",
         "projectName": "NetProject",
-        "projectPath": "C:\\Users\\user\\source\\repos\\NetProject\\NetProject\\NetProject.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\תכנות שנה ב\\net\\NetProject\\NetProject\\NetProject.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\NetProject\\NetProject\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\תכנות שנה ב\\net\\NetProject\\NetProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

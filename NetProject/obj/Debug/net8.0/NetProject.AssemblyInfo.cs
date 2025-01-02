@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2cc5c9a6be7526c8d2845d16e19cbd4aa083e21")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

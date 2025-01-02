@@ -34,3 +34,40 @@ C:\Users\user\source\repos\NetProject\NetProject\obj\Debug\net8.0\refint\NetProj
 C:\Users\user\source\repos\NetProject\NetProject\obj\Debug\net8.0\NetProject.pdb
 C:\Users\user\source\repos\NetProject\NetProject\obj\Debug\net8.0\NetProject.genruntimeconfig.cache
 C:\Users\user\source\repos\NetProject\NetProject\obj\Debug\net8.0\ref\NetProject.dll
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\bin\Debug\net8.0\appsettings.json
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\bin\Debug\net8.0\NetProject.staticwebassets.endpoints.json
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\bin\Debug\net8.0\NetProject.exe
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\bin\Debug\net8.0\NetProject.deps.json
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\bin\Debug\net8.0\NetProject.runtimeconfig.json
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\bin\Debug\net8.0\NetProject.dll
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\bin\Debug\net8.0\NetProject.pdb
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\NetProject.csproj.AssemblyReference.cache
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\NetProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\NetProject.AssemblyInfoInputs.cache
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\NetProject.AssemblyInfo.cs
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\NetProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\NetProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\NetProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\NetProject.sourcelink.json
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\scopedcss\bundle\NetProject.styles.css
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\staticwebassets\msbuild.NetProject.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\staticwebassets\msbuild.NetProject.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\staticwebassets\msbuild.build.NetProject.props
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NetProject.props
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NetProject.props
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\NetProject.csproj.Up2Date
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\NetProject.dll
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\refint\NetProject.dll
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\NetProject.pdb
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\NetProject.genruntimeconfig.cache
+C:\Users\user\Documents\תכנות שנה ב\net\NetProject\NetProject\obj\Debug\net8.0\ref\NetProject.dll
